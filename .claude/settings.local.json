@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install)",
+      "Bash(docker:*)",
+      "Bash(open:*)",
+      "Bash(brew list:*)",
+      "Bash(npm run docker:up:*)",
+      "Bash(npm run:*)",
+      "Bash(curl:*)",
+      "Bash(lsof:*)",
+      "Bash(npx create-next-app:*)",
+      "Bash(npm install:*)",
+      "Bash(pkill:*)",
+      "Bash(true)",
+      "Bash(cat:*)",
+      "Bash(nc:*)",
+      "Bash(brew install:*)",
+      "Bash(npx prisma:*)"
+    ],
+    "deny": []
+  }
+}
